@@ -1,3 +1,4 @@
-"Name: Muhammad Arslan Manzoor"
+Name: Arslan Manzoor
 Email: ch.arslan55@ucp.edu.pk
 Faculty of Information Technology
+ucp
